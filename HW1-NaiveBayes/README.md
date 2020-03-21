@@ -1,5 +1,5 @@
 # Assignment 1: Spam filtering using a naive Bayes classifier
-The full assignment description is available [here](https://nld.ict.usc.edu/cs544-spring2020/assignment1/CS544-assignment1.pdf) as a PDF. Below is an explanation of what each file does:
+See Assignment1-Description.pdf in this repo for a detailed description of this assignment. Below is an explanation of what each file does:
 
 * nblearn.py: learns the naive Bayes model from labeled data
 * nbclassify.py: uses the model on new data
